@@ -35,18 +35,7 @@ services:
       - redis
     env_file:
       - .env
-
-  streamlit:
-    build:
-      context: .
-      dockerfile: Dockerfile.streamlit
-    ports:
-      - "8501:8501"
-    depends_on:
-      - web
-    environment:
-      - API_BASE=http://web:8000
-
+      
 volumes:
   postgres_data:
   redis_data:
