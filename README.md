@@ -27,7 +27,8 @@
 
 Test the live backend on Render:  
 https://bharat-products-e0et.onrender.com/docs
-
+Test the live Streamlit 
+https://ashutosh0000000-bharat-products-made-in-in-streamlit-app-zxycey.streamlit.app/
 Explore the OpenAPI docs and test endpoints directly.
 
 ---
