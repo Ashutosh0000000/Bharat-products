@@ -1,4 +1,4 @@
-🇮🇳 Bharat Products – Made in India Platform
+# 🇮🇳 Bharat Products – Made in India Platform
 
 Bharat Products is a scalable, full-stack platform designed to promote and support Made-in-India products. It combines a powerful backend with a functional UI for product management, discovery, and intelligent recommendations — all aimed at building a self-reliant Bharat.
 
