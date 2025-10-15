@@ -1,47 +1,60 @@
-# 🇮🇳 Bharat Products – Made in India Platform
+🇮🇳 Bharat Products – Made in India Platform
 
-**Bharat Products** is a scalable backend and UI platform built to promote and support **Made-in-India** products. More than a catalog, it’s a step towards building a self productive India to make big brands like China, America and Japan product system.
+Bharat Products is a scalable, full-stack platform designed to promote and support Made-in-India products. It combines a powerful backend with a functional UI for product management, discovery, and intelligent recommendations — all aimed at building a self-reliant Bharat.
 
----
+⚡ Built with FastAPI, Streamlit, Redis, PostgreSQL, and Docker
+🚀 Fully deployed: Real APIs + Interactive UI + Admin Tools
 
-## 🚀 Project Highlights
+🚀 Features
 
-- Manage and discover Indian products with categories, ratings, and stock info.
-- Natural language “Need Help Choosing?” feature to suggest products based on user problems.
-- Real-time trending products with Redis caching for fast and efficient queries.
-- Deployed backend using FastAPI, PostgreSQL, Redis, and Docker.
+🔍 Product Catalog: List of Indian products with categories, pricing, stock, and ratings.
 
----
+✍️ Admin Panel: Add, Edit, Delete products via secure interface.
 
-## 🧰 Tech Stack
+💬 Need Help Choosing?: Recommends products based on user-described needs (natural language input).
 
-- **Backend:** FastAPI, Python 3.11, async SQLAlchemy  
-- **Database:** PostgreSQL (async)  
-- **Caching:** Redis  
-- **Frontend:** Streamlit (prototype UI)  
-- **Deployment:** Docker, Render
+📊 Dashboard: Monitor views, inventory, and trends.
 
----
+⚡ Redis Caching: Faster API responses using smart cache with TTL + invalidation.
 
-## 🔗 Try the Backend API
+🧱 Clean Architecture: Scalable codebase using async Python & modular design.
 
-Test the live backend on Render:  
-https://bharat-products-e0et.onrender.com/docs
-Test the live Streamlit 
-https://ashutosh0000000-bharat-products-made-in-in-streamlit-app-zxycey.streamlit.app/
-Explore the OpenAPI docs and test endpoints directly.
+🧰 Tech Stack
+Layer	Tech
+Backend	FastAPI (async), Python 3.11
+Database	PostgreSQL (with async SQLAlchemy)
+Caching	Redis (async, TTL-based)
+Frontend	Streamlit (admin UI + filters)
+Deployment	Docker + Render
+🔗 Live Links
 
----
+🧪 API Docs (Swagger): https://bharat-products-e0et.onrender.com/docs
 
-## 🛠️ Run Locally
+🌐 Streamlit App: https://ashutosh0000000-bharat-products-made-in-in-streamlit-app-zxycey.streamlit.app
 
-```bash
+📸 Screenshots
+<details> <summary>Click to view</summary>
+
+</details>
+🛠️ Run Locally
 git clone https://github.com/Ashutosh0000000/Bharat-Products-Made-in-India.git
 cd Bharat-Products-Made-in-India/app
 pip install -r requirements.txt
 uvicorn main:app --reload
-Or use Docker:
 
-bash
-Copy code
+Or with Docker
 docker-compose up --build
+
+📌 Future Improvements
+
+✅ Add user authentication (OAuth or JWT)
+
+✅ Add user reviews and ratings
+
+✅ Pagination and sorting
+
+✅ ML-based personalized recommendations
+
+🧑‍💻 Contributors
+
+@Ashutosh0000000
