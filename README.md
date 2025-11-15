@@ -4,6 +4,7 @@ Bharat Products is a scalable, full-stack platform designed to promote and suppo
 
 ⚡ Built with FastAPI, Streamlit, Redis, PostgreSQL, and Docker
 🚀 Fully deployed: Real APIs + Interactive UI + Admin Tools
+
 Screenshots
 <img width="914" height="596" alt="Screenshot 2025-11-14 141217" src="https://github.com/user-attachments/assets/460d4c46-94de-4e65-804b-53b1ccc830f0" />
 Search filter products
@@ -38,14 +39,6 @@ Database	PostgreSQL (with async SQLAlchemy)
 Caching	Redis (async, TTL-based)
 Frontend	Streamlit (admin UI + filters)
 Deployment	Docker + Render
-🔗 Live Links
-
-🧪 API Docs (Swagger): https://bharat-products-e0et.onrender.com/docs
-
-🌐 Streamlit App: https://ashutosh0000000-bharat-products-made-in-in-streamlit-app-zxycey.streamlit.app
-
-📸 Screenshots
-<details> <summary>Click to view</summary>
 
 </details>
 🛠️ Run Locally
