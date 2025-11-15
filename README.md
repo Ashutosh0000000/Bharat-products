@@ -4,6 +4,18 @@ Bharat Products is a scalable, full-stack platform designed to promote and suppo
 
 ⚡ Built with FastAPI, Streamlit, Redis, PostgreSQL, and Docker
 🚀 Fully deployed: Real APIs + Interactive UI + Admin Tools
+Screenshots
+<img width="914" height="596" alt="Screenshot 2025-11-14 141217" src="https://github.com/user-attachments/assets/460d4c46-94de-4e65-804b-53b1ccc830f0" />
+Search filter products
+<img width="1900" height="892" alt="Screenshot 2025-11-09 115321" src="https://github.com/user-attachments/assets/35014ef3-fee1-407d-8e57-82ce420ed6af" />
+Dashboard
+<img width="1704" height="957" alt="Screenshot 2025-11-09 115007" src="https://github.com/user-attachments/assets/4241dcd1-cba7-4c1d-ace0-017764389742" />
+<img width="1843" height="661" alt="Screenshot 2025-11-09 115041" src="https://github.com/user-attachments/assets/ac83d5ab-c6f8-4e59-94db-19feaf43a3a9" />
+Add products local brands
+<img width="1518" height="824" alt="Screenshot 2025-11-09 115113" src="https://github.com/user-attachments/assets/c383cf51-fa8d-4a08-8857-8377139938ac" />
+New feature need help search
+<img width="220" height="517" alt="Screenshot 2025-11-09 115122" src="https://github.com/user-attachments/assets/5b5920c5-bec6-4bc9-abb0-cd32302c48d1" />
+
 
 🚀 Features
 
