@@ -6,7 +6,9 @@ Bharat Products is a scalable, full-stack platform designed to promote and suppo
 🚀 Fully deployed: Real APIs + Interactive UI + Admin Tools
 
 Screenshots
+
 <img width="546" height="637" alt="image" src="https://github.com/user-attachments/assets/f5233dd7-28cb-43d4-8ab1-9a29610a62e3" />
+
 Search filter products
 <img width="1900" height="892" alt="Screenshot 2025-11-09 115321" src="https://github.com/user-attachments/assets/35014ef3-fee1-407d-8e57-82ce420ed6af" />
 Dashboard
